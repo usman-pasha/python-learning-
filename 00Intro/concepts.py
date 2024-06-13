@@ -1,5 +1,3 @@
-# Python Core language
-
 #  Types Of DataTypes 
 # 1 . Mutable Data types [Changable]
 #  list 
